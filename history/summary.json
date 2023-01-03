@@ -342,10 +342,10 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1006,
@@ -354,6 +354,7 @@
     "timeMonth": 1214,
     "timeYear": 958,
     "dailyMinutesDown": {
+      "2023-01-03": 2,
       "2022-12-03": 19,
       "2022-11-20": 17
     }
@@ -363,10 +364,10 @@
     "url": "http://jaarverslag.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/jaarverslag.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum-jaarverslag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 380,
@@ -374,7 +375,9 @@
     "timeWeek": 258,
     "timeMonth": 256,
     "timeYear": 303,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-03": 1
+    }
   },
   {
     "name": "Het Markiezenhof",
@@ -384,12 +387,12 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.29%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.80%",
     "time": 1130,
     "timeDay": 514,
-    "timeWeek": 929,
+    "timeWeek": 987,
     "timeMonth": 1198,
     "timeYear": 1055,
     "dailyMinutesDown": {
@@ -410,14 +413,14 @@
     "slug": "teylers-museum",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "96.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "97.13%",
     "uptimeYear": "99.51%",
     "time": 1569,
-    "timeDay": 4732,
+    "timeDay": 4628,
     "timeWeek": 2866,
-    "timeMonth": 1566,
+    "timeMonth": 1607,
     "timeYear": 1648,
     "dailyMinutesDown": {
       "2023-01-02": 47,
