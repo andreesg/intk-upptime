@@ -188,18 +188,19 @@
     "url": "https://www.historischmuseumdenbriel.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.historischmuseumdenbriel.nl.ico",
     "slug": "historisch-museum-den-briel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1287,
+    "time": 1286,
     "timeDay": 1322,
     "timeWeek": 1144,
     "timeMonth": 1291,
     "timeYear": 1205,
     "dailyMinutesDown": {
+      "2023-01-11": 1,
       "2022-03-24": 23
     }
   },
