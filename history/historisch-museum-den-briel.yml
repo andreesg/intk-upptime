@@ -1,7 +1,7 @@
 url: https://www.historischmuseumdenbriel.nl
-status: up
-code: 200
-responseTime: 5060
-lastUpdated: 2023-10-10T05:31:41.887Z
+status: down
+code: 502
+responseTime: 8771
+lastUpdated: 2023-10-10T10:57:00.590Z
 startTime: 2020-12-29T14:34:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
