@@ -1,7 +1,7 @@
 url: https://www.haagshistorischmuseum.nl
-status: up
-code: 200
-responseTime: 1138
-lastUpdated: 2024-02-23T23:11:03.232Z
+status: down
+code: 502
+responseTime: 663
+lastUpdated: 2024-02-24T02:01:45.757Z
 startTime: 2021-09-14T11:43:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
