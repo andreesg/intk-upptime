@@ -1,7 +1,7 @@
 url: http://jaarverslag.zeeuwsmuseum.nl
-status: down
-code: 500
-responseTime: 743
-lastUpdated: 2024-04-25T13:42:43.427Z
+status: up
+code: 200
+responseTime: 529
+lastUpdated: 2024-04-25T20:59:50.589Z
 startTime: 2021-09-07T07:21:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
