@@ -214,19 +214,19 @@
     "url": "https://www.hetpark.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.hetpark.nl.ico",
     "slug": "het-park",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 1066,
     "timeDay": 1044,
-    "timeWeek": 852,
-    "timeMonth": 867,
-    "timeYear": 1095,
+    "timeWeek": 876,
+    "timeMonth": 873,
+    "timeYear": 1094,
     "dailyMinutesDown": {
-      "2024-05-14": 1
+      "2024-05-14": 45
     }
   },
   {
@@ -719,7 +719,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-14": 673,
+      "2024-05-14": 718,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
