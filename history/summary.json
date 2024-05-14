@@ -130,9 +130,9 @@
     "slug": "centraal-museum",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.79%",
     "time": 1879,
     "timeDay": 5968,
@@ -140,7 +140,6 @@
     "timeMonth": 1429,
     "timeYear": 1955,
     "dailyMinutesDown": {
-      "2024-05-14": 6,
       "2024-05-12": 25,
       "2024-04-22": 18,
       "2024-04-21": 16,
@@ -215,10 +214,10 @@
     "url": "https://www.hetpark.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.hetpark.nl.ico",
     "slug": "het-park",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1066,
@@ -226,7 +225,9 @@
     "timeWeek": 852,
     "timeMonth": 867,
     "timeYear": 1095,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-14": 1
+    }
   },
   {
     "name": "De Gevangenpoort",
@@ -718,7 +719,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-14": 597,
+      "2024-05-14": 673,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
