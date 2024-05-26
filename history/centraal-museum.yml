@@ -1,7 +1,7 @@
 url: https://www.centraalmuseum.nl
-status: down
-code: 500
-responseTime: 2532
-lastUpdated: 2024-05-26T23:00:42.625Z
+status: up
+code: 200
+responseTime: 746
+lastUpdated: 2024-05-26T23:13:48.350Z
 startTime: 2020-12-29T14:28:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
