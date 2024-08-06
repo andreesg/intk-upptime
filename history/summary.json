@@ -116,8 +116,8 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.67%",
     "time": 2160,
-    "timeDay": 5631,
-    "timeWeek": 6594,
+    "timeDay": 7908,
+    "timeWeek": 5098,
     "timeMonth": 5532,
     "timeYear": 2357,
     "dailyMinutesDown": {
@@ -525,10 +525,10 @@
     "url": "https://www.mondriaanhuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.mondriaanhuis.nl.ico",
     "slug": "mondriaanhuis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 957,
@@ -537,6 +537,7 @@
     "timeMonth": 911,
     "timeYear": 961,
     "dailyMinutesDown": {
+      "2024-08-06": 1,
       "2023-08-08": 18
     }
   },
@@ -712,7 +713,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.intk.com.ico",
     "slug": "intk-development-server",
     "status": "down",
-    "uptime": "58.46%",
+    "uptime": "58.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -723,7 +724,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-06": 55,
+      "2024-08-06": 617,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
