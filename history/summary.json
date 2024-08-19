@@ -13,7 +13,7 @@
     "time": 1659,
     "timeDay": 1020,
     "timeWeek": 1174,
-    "timeMonth": 1203,
+    "timeMonth": 1210,
     "timeYear": 1710,
     "dailyMinutesDown": {
       "2024-08-13": 17,
@@ -42,7 +42,7 @@
     "time": 1864,
     "timeDay": 1431,
     "timeWeek": 1611,
-    "timeMonth": 1782,
+    "timeMonth": 1773,
     "timeYear": 1666,
     "dailyMinutesDown": {
       "2024-07-03": 61,
@@ -80,7 +80,7 @@
     "time": 1807,
     "timeDay": 1197,
     "timeWeek": 1503,
-    "timeMonth": 1441,
+    "timeMonth": 1440,
     "timeYear": 1728,
     "dailyMinutesDown": {
       "2024-07-05": 60,
@@ -117,7 +117,7 @@
     "time": 2438,
     "timeDay": 2434,
     "timeWeek": 9697,
-    "timeMonth": 6837,
+    "timeMonth": 6931,
     "timeYear": 2691,
     "dailyMinutesDown": {
       "2024-08-16": 27,
@@ -175,7 +175,7 @@
     "time": 1489,
     "timeDay": 1195,
     "timeWeek": 1416,
-    "timeMonth": 1695,
+    "timeMonth": 1710,
     "timeYear": 1636,
     "dailyMinutesDown": {
       "2024-07-31": 15,
@@ -236,7 +236,7 @@
     "time": 1039,
     "timeDay": 730,
     "timeWeek": 895,
-    "timeMonth": 857,
+    "timeMonth": 862,
     "timeYear": 934,
     "dailyMinutesDown": {
       "2024-08-17": 66,
@@ -257,7 +257,7 @@
     "time": 1752,
     "timeDay": 1151,
     "timeWeek": 1397,
-    "timeMonth": 1353,
+    "timeMonth": 1361,
     "timeYear": 1594,
     "dailyMinutesDown": {
       "2024-07-05": 60,
@@ -287,18 +287,19 @@
     "url": "https://www.historischmuseumdenbriel.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.historischmuseumdenbriel.nl.ico",
     "slug": "historisch-museum-den-briel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
-    "time": 3282,
+    "time": 3285,
     "timeDay": 3980,
     "timeWeek": 4055,
-    "timeMonth": 4261,
+    "timeMonth": 4263,
     "timeYear": 4069,
     "dailyMinutesDown": {
+      "2024-08-19": 1,
       "2024-08-02": 17,
       "2024-06-25": 19,
       "2024-06-18": 19,
@@ -336,7 +337,7 @@
     "time": 1183,
     "timeDay": 1013,
     "timeWeek": 1288,
-    "timeMonth": 1259,
+    "timeMonth": 1268,
     "timeYear": 1208,
     "dailyMinutesDown": {
       "2024-05-24": 56,
@@ -369,7 +370,7 @@
     "time": 1156,
     "timeDay": 854,
     "timeWeek": 1180,
-    "timeMonth": 1107,
+    "timeMonth": 1118,
     "timeYear": 1180,
     "dailyMinutesDown": {
       "2024-05-24": 56,
@@ -406,7 +407,7 @@
     "time": 1909,
     "timeDay": 1214,
     "timeWeek": 1596,
-    "timeMonth": 1558,
+    "timeMonth": 1553,
     "timeYear": 1729,
     "dailyMinutesDown": {
       "2024-05-24": 56,
@@ -445,7 +446,7 @@
     "time": 2156,
     "timeDay": 1400,
     "timeWeek": 1737,
-    "timeMonth": 1737,
+    "timeMonth": 1747,
     "timeYear": 2152,
     "dailyMinutesDown": {
       "2024-05-24": 56,
@@ -489,7 +490,7 @@
     "time": 1275,
     "timeDay": 1032,
     "timeWeek": 1331,
-    "timeMonth": 1367,
+    "timeMonth": 1383,
     "timeYear": 1282,
     "dailyMinutesDown": {}
   },
@@ -507,7 +508,7 @@
     "time": 985,
     "timeDay": 7900,
     "timeWeek": 2481,
-    "timeMonth": 1871,
+    "timeMonth": 1884,
     "timeYear": 1024,
     "dailyMinutesDown": {
       "2024-08-17": 31,
@@ -535,7 +536,7 @@
     "time": 960,
     "timeDay": 784,
     "timeWeek": 986,
-    "timeMonth": 944,
+    "timeMonth": 951,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2024-08-06": 17
@@ -555,7 +556,7 @@
     "time": 2380,
     "timeDay": 1224,
     "timeWeek": 2025,
-    "timeMonth": 1990,
+    "timeMonth": 1915,
     "timeYear": 2382,
     "dailyMinutesDown": {
       "2024-08-02": 18,
@@ -586,7 +587,7 @@
     "time": 726,
     "timeDay": 507,
     "timeWeek": 702,
-    "timeMonth": 670,
+    "timeMonth": 678,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2024-04-25": 437,
@@ -607,7 +608,7 @@
     "time": 917,
     "timeDay": 814,
     "timeWeek": 1089,
-    "timeMonth": 1031,
+    "timeMonth": 1041,
     "timeYear": 931,
     "dailyMinutesDown": {}
   },
@@ -625,7 +626,7 @@
     "time": 934,
     "timeDay": 516,
     "timeWeek": 435,
-    "timeMonth": 480,
+    "timeMonth": 484,
     "timeYear": 928,
     "dailyMinutesDown": {
       "2024-02-28": 21
@@ -645,7 +646,7 @@
     "time": 904,
     "timeDay": 882,
     "timeWeek": 1033,
-    "timeMonth": 975,
+    "timeMonth": 984,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2024-07-03": 60,
@@ -719,7 +720,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-19": 57,
+      "2024-08-19": 201,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
