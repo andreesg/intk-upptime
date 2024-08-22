@@ -6,12 +6,12 @@
     "slug": "schunck",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "91.10%",
+    "uptimeDay": "91.48%",
     "uptimeWeek": "98.73%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.26%",
     "time": 1645,
-    "timeDay": 897,
+    "timeDay": 1152,
     "timeWeek": 1119,
     "timeMonth": 1224,
     "timeYear": 1701,
@@ -118,7 +118,7 @@
     "time": 2507,
     "timeDay": 4361,
     "timeWeek": 4752,
-    "timeMonth": 6951,
+    "timeMonth": 6989,
     "timeYear": 2743,
     "dailyMinutesDown": {
       "2024-08-22": 59,
@@ -231,10 +231,10 @@
     "url": "https://www.hetpark.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.hetpark.nl.ico",
     "slug": "het-park",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 1051,
@@ -243,6 +243,7 @@
     "timeMonth": 1054,
     "timeYear": 948,
     "dailyMinutesDown": {
+      "2024-08-22": 1,
       "2024-08-17": 66,
       "2024-05-14": 45
     }
@@ -300,7 +301,7 @@
     "time": 3371,
     "timeDay": 4849,
     "timeWeek": 6256,
-    "timeMonth": 4979,
+    "timeMonth": 4963,
     "timeYear": 4155,
     "dailyMinutesDown": {
       "2024-08-21": 18,
@@ -724,7 +725,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-22": 921,
+      "2024-08-22": 1068,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
