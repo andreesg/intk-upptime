@@ -718,9 +718,9 @@
     "url": "https://www.intk.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.intk.com.ico",
     "slug": "intk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "97.18%",
+    "uptimeDay": "97.09%",
     "uptimeWeek": "97.42%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "97.64%",
@@ -730,6 +730,7 @@
     "timeMonth": 884,
     "timeYear": 940,
     "dailyMinutesDown": {
+      "2025-01-24": 1,
       "2025-01-23": 41,
       "2025-01-22": 46,
       "2025-01-21": 44,
@@ -807,7 +808,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-24": 62,
+      "2025-01-24": 125,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
