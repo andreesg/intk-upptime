@@ -123,9 +123,9 @@
     "slug": "centraal-museum",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "90.84%",
-    "uptimeMonth": "85.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.84%",
+    "uptimeMonth": "85.76%",
     "uptimeYear": "97.83%",
     "time": 3318,
     "timeDay": 410,
@@ -133,7 +133,6 @@
     "timeMonth": 5009,
     "timeYear": 3614,
     "dailyMinutesDown": {
-      "2025-02-14": 9,
       "2025-02-12": 36,
       "2025-02-11": 25,
       "2025-02-10": 18,
@@ -394,17 +393,18 @@
     "slug": "rietveld-schroederhuis",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "63.10%",
-    "uptimeWeek": "94.43%",
-    "uptimeMonth": "84.28%",
-    "uptimeYear": "98.63%",
+    "uptimeDay": "56.70%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "84.07%",
+    "uptimeYear": "98.61%",
     "time": 1236,
     "timeDay": 0,
     "timeWeek": 1198,
     "timeMonth": 1441,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2025-02-14": 531,
+      "2025-02-15": 62,
+      "2025-02-14": 562,
       "2025-02-09": 30,
       "2025-02-04": 44,
       "2025-02-03": 571,
@@ -832,7 +832,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-14": 1410,
+      "2025-02-15": 62,
+      "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
@@ -1195,8 +1196,7 @@
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
-      "2024-02-17": 1440,
-      "2024-02-16": 1440
+      "2024-02-17": 1440
     }
   }
 ]
