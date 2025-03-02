@@ -59,17 +59,18 @@
     "slug": "uitgeverij-komma",
     "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "20.24%",
-    "uptimeWeek": "88.61%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "99.64%",
+    "uptimeDay": "14.37%",
+    "uptimeWeek": "87.77%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "99.62%",
     "time": 1711,
     "timeDay": 0,
     "timeWeek": 4100,
     "timeMonth": 2385,
     "timeYear": 1703,
     "dailyMinutesDown": {
-      "2025-03-01": 1149,
+      "2025-03-02": 68,
+      "2025-03-01": 1165,
       "2025-01-18": 307,
       "2024-07-03": 61,
       "2024-06-12": 61,
@@ -122,10 +123,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.centraalmuseum.nl.ico",
     "slug": "centraal-museum",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "95.70%",
-    "uptimeWeek": "95.09%",
-    "uptimeMonth": "95.16%",
+    "uptime": "99.43%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "95.18%",
     "uptimeYear": "97.73%",
     "time": 3295,
     "timeDay": 2918,
@@ -133,7 +134,7 @@
     "timeMonth": 3468,
     "timeYear": 3671,
     "dailyMinutesDown": {
-      "2025-03-01": 61,
+      "2025-03-01": 54,
       "2025-02-27": 20,
       "2025-02-25": 382,
       "2025-02-24": 31,
@@ -403,8 +404,8 @@
     "status": "up",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.27%",
-    "uptimeMonth": "82.60%",
+    "uptimeWeek": "90.10%",
+    "uptimeMonth": "82.79%",
     "uptimeYear": "97.69%",
     "time": 1251,
     "timeDay": 1160,
@@ -813,8 +814,7 @@
       "2024-03-20": 18,
       "2024-03-10": 25,
       "2024-03-09": 16,
-      "2024-03-06": 18,
-      "2024-03-02": 17
+      "2024-03-06": 18
     }
   },
   {
@@ -834,7 +834,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-01": 1425,
+      "2025-03-02": 69,
+      "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -1197,8 +1198,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   }
 ]
