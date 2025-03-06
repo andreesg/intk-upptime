@@ -126,9 +126,9 @@
     "slug": "centraal-museum",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "94.97%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "94.98%",
     "uptimeYear": "97.72%",
     "time": 3320,
     "timeDay": 6888,
@@ -136,7 +136,7 @@
     "timeMonth": 3781,
     "timeYear": 3702,
     "dailyMinutesDown": {
-      "2025-03-05": 22,
+      "2025-03-05": 16,
       "2025-03-04": 59,
       "2025-03-02": 26,
       "2025-03-01": 54,
@@ -216,7 +216,7 @@
     "status": "up",
     "uptime": "98.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.21%",
+    "uptimeWeek": "97.93%",
     "uptimeMonth": "96.52%",
     "uptimeYear": "95.02%",
     "time": 1903,
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rietveldschroderhuis.nl.ico",
     "slug": "rietveld-schroederhuis",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "70.47%",
-    "uptimeWeek": "92.15%",
-    "uptimeMonth": "85.71%",
-    "uptimeYear": "97.55%",
+    "uptime": "99.40%",
+    "uptimeDay": "65.38%",
+    "uptimeWeek": "91.43%",
+    "uptimeMonth": "85.54%",
+    "uptimeYear": "97.54%",
     "time": 1253,
     "timeDay": 1024,
     "timeWeek": 1462,
     "timeMonth": 1282,
     "timeYear": 1262,
     "dailyMinutesDown": {
-      "2025-03-05": 426,
+      "2025-03-06": 65,
+      "2025-03-05": 434,
       "2025-03-03": 283,
       "2025-02-28": 82,
       "2025-02-25": 72,
@@ -826,8 +827,7 @@
       "2024-03-26": 20,
       "2024-03-20": 18,
       "2024-03-10": 25,
-      "2024-03-09": 16,
-      "2024-03-06": 18
+      "2024-03-09": 16
     }
   },
   {
@@ -847,7 +847,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-05": 1432,
+      "2025-03-06": 65,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1210,8 +1211,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   }
 ]
