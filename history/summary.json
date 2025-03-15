@@ -213,18 +213,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bonnefanten.nl.ico",
     "slug": "bonnefanten",
     "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "95.02%",
+    "uptime": "98.78%",
+    "uptimeDay": "95.39%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "95.01%",
     "time": 1918,
     "timeDay": 1116,
     "timeWeek": 1514,
     "timeMonth": 2140,
     "timeYear": 2063,
     "dailyMinutesDown": {
-      "2025-03-14": 1,
+      "2025-03-15": 64,
+      "2025-03-14": 2,
       "2025-03-03": 16,
       "2025-02-27": 257,
       "2025-02-26": 20,
@@ -405,9 +406,9 @@
     "slug": "rietveld-schroederhuis",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "60.88%",
-    "uptimeWeek": "76.88%",
-    "uptimeMonth": "79.93%",
+    "uptimeDay": "65.41%",
+    "uptimeWeek": "77.10%",
+    "uptimeMonth": "80.08%",
     "uptimeYear": "96.96%",
     "time": 1250,
     "timeDay": 1048,
@@ -838,6 +839,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2025-03-15": 65,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1201,8 +1203,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   }
 ]
