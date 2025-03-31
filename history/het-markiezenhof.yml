@@ -1,7 +1,7 @@
 url: https://www.markiezenhof.nl
-status: up
-code: 200
-responseTime: 752
-lastUpdated: 2025-03-30T23:17:22.872Z
+status: down
+code: 502
+responseTime: 356
+lastUpdated: 2025-03-31T03:01:12.279Z
 startTime: 2020-12-29T14:34:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
