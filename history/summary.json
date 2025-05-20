@@ -214,17 +214,16 @@
     "slug": "bonnefanten",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "91.43%",
-    "uptimeYear": "97.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "91.44%",
+    "uptimeYear": "97.90%",
     "time": 2159,
     "timeDay": 1309,
     "timeWeek": 1999,
     "timeMonth": 1767,
     "timeYear": 2185,
     "dailyMinutesDown": {
-      "2025-05-20": 7,
       "2025-05-18": 149,
       "2025-05-15": 26,
       "2025-05-14": 173,
@@ -311,7 +310,7 @@
       "2024-09-01": 26,
       "2024-08-29": 81,
       "2024-08-28": 17,
-      "2024-08-27": 36
+      "2024-08-27": 57
     }
   },
   {
@@ -414,10 +413,10 @@
     "url": "https://www.rietveldschroderhuis.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.rietveldschroderhuis.nl.ico",
     "slug": "rietveld-schroederhuis",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.26%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "96.25%",
     "uptimeMonth": "90.66%",
     "uptimeYear": "94.42%",
     "time": 1249,
@@ -426,6 +425,7 @@
     "timeMonth": 1204,
     "timeYear": 1256,
     "dailyMinutesDown": {
+      "2025-05-20": 1,
       "2025-05-19": 57,
       "2025-05-18": 320,
       "2025-05-13": 23,
@@ -884,7 +884,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-20": 1175,
+      "2025-05-20": 1261,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
