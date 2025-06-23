@@ -678,9 +678,9 @@
     "slug": "mondriaanhuis",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 840,
     "timeDay": 704,
@@ -688,7 +688,6 @@
     "timeMonth": 571,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2025-06-22": 9,
       "2025-06-06": 17,
       "2025-05-22": 25,
       "2025-04-16": 24,
@@ -813,18 +812,19 @@
     "url": "https://www.intk.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.intk.com.ico",
     "slug": "intk",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.04%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.03%",
     "uptimeMonth": "84.81%",
     "uptimeYear": "95.24%",
-    "time": 949,
+    "time": 948,
     "timeDay": 1345,
     "timeWeek": 1035,
     "timeMonth": 955,
     "timeYear": 962,
     "dailyMinutesDown": {
+      "2025-06-23": 2,
       "2025-06-21": 102,
       "2025-06-17": 96,
       "2025-06-07": 100,
@@ -902,7 +902,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-22": 1424,
+      "2025-06-23": 77,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -1265,8 +1266,7 @@
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
-      "2024-06-24": 1440,
-      "2024-06-23": 1440
+      "2024-06-24": 1440
     }
   }
 ]
