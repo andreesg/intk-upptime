@@ -795,19 +795,19 @@
     "url": "https://www.teylersmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.teylersmuseum.nl.ico",
     "slug": "teylers-museum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 386,
-    "timeWeek": 405,
-    "timeMonth": 446,
+    "time": 564,
+    "timeDay": 430,
+    "timeWeek": 414,
+    "timeMonth": 447,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2025-07-11": 1
+      "2025-07-11": 15
     }
   },
   {
@@ -906,7 +906,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 1280,
+      "2025-07-11": 1295,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
