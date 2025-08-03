@@ -373,8 +373,8 @@
     "status": "up",
     "uptime": "99.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.52%",
-    "uptimeMonth": "86.72%",
+    "uptimeWeek": "42.46%",
+    "uptimeMonth": "86.70%",
     "uptimeYear": "98.79%",
     "time": 5441,
     "timeDay": 6719,
@@ -382,7 +382,8 @@
     "timeMonth": 6392,
     "timeYear": 5685,
     "dailyMinutesDown": {
-      "2025-08-02": 1433,
+      "2025-08-03": 0,
+      "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -809,19 +810,19 @@
     "url": "https://www.teylersmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.teylersmuseum.nl.ico",
     "slug": "teylers-museum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 532,
-    "timeDay": 458,
-    "timeWeek": 463,
-    "timeMonth": 463,
-    "timeYear": 475,
+    "time": 531,
+    "timeDay": 541,
+    "timeWeek": 481,
+    "timeMonth": 467,
+    "timeYear": 476,
     "dailyMinutesDown": {
-      "2025-08-02": 1,
+      "2025-08-02": 7,
       "2025-07-26": 19,
       "2025-07-22": 35
     }
@@ -931,7 +932,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-02": 1434,
+      "2025-08-03": 0,
+      "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -1294,8 +1296,7 @@
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
-      "2024-08-04": 1440,
-      "2024-08-03": 1440
+      "2024-08-04": 1440
     }
   }
 ]
