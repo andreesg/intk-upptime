@@ -1,7 +1,7 @@
 url: https://www.kunsthalkade.nl
-status: up
-code: 200
-responseTime: 4286
-lastUpdated: 2025-08-17T23:17:32.528Z
+status: down
+code: 415
+responseTime: 653
+lastUpdated: 2025-08-18T18:23:27.249Z
 startTime: 2020-12-29T14:34:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
