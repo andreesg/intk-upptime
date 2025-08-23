@@ -4,18 +4,19 @@
     "url": "https://www.schunck.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.schunck.nl.ico",
     "slug": "schunck",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
-    "time": 1223,
+    "time": 1221,
     "timeDay": 1703,
     "timeWeek": 1327,
     "timeMonth": 1271,
     "timeYear": 1178,
     "dailyMinutesDown": {
+      "2025-08-23": 1,
       "2025-07-15": 23,
       "2025-06-28": 21,
       "2025-06-26": 26,
@@ -122,10 +123,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.centraalmuseum.nl.ico",
     "slug": "centraal-museum",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptime": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "97.62%",
     "time": 3263,
     "timeDay": 989,
@@ -133,7 +134,6 @@
     "timeMonth": 572,
     "timeYear": 2834,
     "dailyMinutesDown": {
-      "2025-08-22": 9,
       "2025-08-21": 15,
       "2025-06-30": 17,
       "2025-06-11": 21,
@@ -960,7 +960,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-22": 1421,
+      "2025-08-23": 2,
+      "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
@@ -1323,8 +1324,7 @@
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
-      "2024-08-24": 1440,
-      "2024-08-23": 1440
+      "2024-08-24": 1440
     }
   }
 ]
