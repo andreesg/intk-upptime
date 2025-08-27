@@ -840,9 +840,9 @@
     "slug": "teylers-museum",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 475,
     "timeDay": 678,
@@ -850,7 +850,6 @@
     "timeMonth": 474,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2025-08-26": 7,
       "2025-08-25": 15,
       "2025-08-20": 17,
       "2025-08-08": 18,
@@ -863,19 +862,20 @@
     "url": "https://www.intk.com/en",
     "icon": "https://icons.duckduckgo.com/ip3/www.intk.com.ico",
     "slug": "intk",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.09%",
-    "uptimeMonth": "88.75%",
-    "uptimeYear": "94.15%",
+    "uptimeWeek": "56.40%",
+    "uptimeMonth": "88.59%",
+    "uptimeYear": "94.13%",
     "time": 950,
     "timeDay": 1032,
     "timeWeek": 953,
     "timeMonth": 921,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2025-08-26": 1438,
+      "2025-08-27": 68,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1360,
       "2025-08-21": 88,
@@ -968,7 +968,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-26": 1438,
+      "2025-08-27": 68,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -1331,8 +1332,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   }
 ]
