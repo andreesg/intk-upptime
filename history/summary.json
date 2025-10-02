@@ -399,8 +399,7 @@
       "2024-11-07": 23,
       "2024-11-06": 16,
       "2024-10-13": 17,
-      "2024-10-05": 16,
-      "2024-10-02": 26
+      "2024-10-05": 16
     }
   },
   {
@@ -627,9 +626,9 @@
     "slug": "kunsthal-k-ad-e",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.73%",
     "time": 2556,
     "timeDay": 1102,
@@ -637,7 +636,6 @@
     "timeMonth": 1949,
     "timeYear": 2600,
     "dailyMinutesDown": {
-      "2025-10-01": 7,
       "2025-09-30": 25,
       "2025-09-29": 17,
       "2025-09-24": 16,
@@ -690,9 +688,9 @@
     "slug": "mondriaanhuis",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.81%",
     "time": 745,
     "timeDay": 441,
@@ -700,7 +698,6 @@
     "timeMonth": 564,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2025-10-01": 7,
       "2025-09-29": 17,
       "2025-09-21": 18,
       "2025-09-16": 18,
@@ -849,16 +846,17 @@
     "status": "up",
     "uptime": "98.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.89%",
-    "uptimeMonth": "78.28%",
-    "uptimeYear": "94.28%",
+    "uptimeWeek": "42.12%",
+    "uptimeMonth": "78.12%",
+    "uptimeYear": "94.27%",
     "time": 962,
     "timeDay": 1161,
     "timeWeek": 1060,
     "timeMonth": 1019,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2025-10-01": 1428,
+      "2025-10-02": 66,
+      "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1364,
@@ -952,7 +950,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.intk.com.ico",
     "slug": "intk-development-server",
     "status": "down",
-    "uptime": "44.26%",
+    "uptime": "44.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -963,7 +961,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-01": 1428,
+      "2025-10-02": 66,
+      "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
@@ -1326,8 +1325,7 @@
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
-      "2024-10-03": 1440,
-      "2024-10-02": 1440
+      "2024-10-03": 1440
     }
   }
 ]
