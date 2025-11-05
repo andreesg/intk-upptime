@@ -682,8 +682,7 @@
       "2024-12-28": 34,
       "2024-12-26": 19,
       "2024-12-16": 25,
-      "2024-11-19": 21,
-      "2024-11-05": 20
+      "2024-11-19": 21
     }
   },
   {
@@ -741,19 +740,19 @@
     "url": "https://www.zeeuwsmuseum.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeeuwsmuseum.nl.ico",
     "slug": "zeeuws-museum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.89%",
     "time": 2159,
-    "timeDay": 2362,
-    "timeWeek": 2014,
-    "timeMonth": 2185,
-    "timeYear": 2221,
+    "timeDay": 2585,
+    "timeWeek": 2113,
+    "timeMonth": 2203,
+    "timeYear": 2222,
     "dailyMinutesDown": {
-      "2025-11-04": 1,
+      "2025-11-04": 6,
       "2025-10-16": 23,
       "2025-09-23": 15,
       "2025-08-22": 41,
@@ -864,7 +863,7 @@
     "uptime": "97.81%",
     "uptimeDay": "95.48%",
     "uptimeWeek": "99.35%",
-    "uptimeMonth": "77.98%",
+    "uptimeMonth": "78.00%",
     "uptimeYear": "91.62%",
     "time": 955,
     "timeDay": 1030,
@@ -997,7 +996,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-04": 1436,
+      "2025-11-05": 2,
+      "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
@@ -1360,8 +1360,7 @@
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
-      "2024-11-06": 1440,
-      "2024-11-05": 1440
+      "2024-11-06": 1440
     }
   }
 ]
