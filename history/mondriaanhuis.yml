@@ -1,7 +1,7 @@
 url: https://www.mondriaanhuis.nl
-status: up
-code: 200
-responseTime: 2340
-lastUpdated: 2025-12-28T22:53:47.651Z
+status: down
+code: 415
+responseTime: 287
+lastUpdated: 2025-12-28T23:00:49.498Z
 startTime: 2020-12-29T14:34:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
